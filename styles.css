@@ -1,1 +1,13 @@
 /* css styles */
+
+.test {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://hai.stanford.edu/sites/default/files/styles/media/public/2021-04/Data%20image%20istock.jpg?itok=eJ27GER1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*background-position: center center;*/
+    /*background-attachment: fixed;*/
+  }

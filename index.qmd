@@ -1,7 +1,8 @@
 ---
-title: "Welcome!"
+title: Aspen Jack
+fontcolor: white 
 ---
 
-#### Intro
+#### Data Analyst {.test}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Contact](contact.qmd){.btn .btn-outline-success .btn role="button"} 

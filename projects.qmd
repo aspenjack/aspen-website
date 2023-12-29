@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+// title: "Projects"
 ---
 
-### [Ethical Fashion](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
+## [Ethical Fashion](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
 An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.
 
 * Data Source: [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/) 
@@ -11,3 +11,6 @@ An interactive dashboard containing visualizations of 5 key metrics related to s
 
 ** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided.
 
+
+## [Traffic Accidents in the US (2016-2022)](https://aspenjack.github.io/US-Transportation-Accidents/)
+An in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable.

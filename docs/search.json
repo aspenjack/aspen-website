@@ -9,15 +9,36 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Aspen Jack",
     "section": "",
-    "text": "Ethical Fashion\nAn interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Aspen Jack",
     "section": "",
-    "text": "Intro\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Data Analyst\nContact"
+  },
+  {
+    "objectID": "projects.html#ethical-fashion",
+    "href": "projects.html#ethical-fashion",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
+  },
+  {
+    "objectID": "projects.html#traffic-accidents-in-the-us-2017-2022",
+    "href": "projects.html#traffic-accidents-in-the-us-2017-2022",
+    "title": "Projects",
+    "section": "Traffic Accidents in the US (2017-2022)",
+    "text": "Traffic Accidents in the US (2017-2022)"
+  },
+  {
+    "objectID": "projects.html#traffic-accidents-in-the-us-2016-2022",
+    "href": "projects.html#traffic-accidents-in-the-us-2016-2022",
+    "title": "Aspen Jack",
+    "section": "Traffic Accidents in the US (2016-2022)",
+    "text": "Traffic Accidents in the US (2016-2022)\nAn in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable."
   }
 ]
