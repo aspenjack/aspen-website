@@ -1,8 +1,26 @@
 ---
-title: Aspen Jack
 fontcolor: white 
 ---
+#### {.test}
+<style>
+    body {
+    background-image: url("/website-background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*background-position: center center;*/
+    /*background-attachment: fixed;*/
+  }
+</style>
 
-#### Data Analyst {.test}
+<p style="display:inline; font-size: 45px; padding-left: 30px; font-weight: bold">Aspen Jack</p>
+<br>
+<p style="font-size: 25px; padding-left: 30px">Data Analyst</p>
 
-[Contact](contact.qmd){.btn .btn-outline-success .btn role="button"} 
+
+<a href = "https://github.com/aspenjack" > <i class="fa fa-github" style="display: inline; color: white"></i>
+![](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png){.github width="25"}
+<a href = "https://www.linkedin.com/in/aspenjack" > <i class="fa fa-linkedin" style="padding: 10px; display: inline; color: white"></i>
+![](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png){.linkedin width="25"}
+
+
+<br> [Contact](contact.qmd){.btn .btn-outline-success .btn role="button"}

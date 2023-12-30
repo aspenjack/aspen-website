@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Aspen Jack",
     "section": "",
-    "text": "Data Analyst\nContact"
+    "text": "Aspen Jack\n\n\n\nData Analyst\n\n     \n Contact"
   },
   {
     "objectID": "projects.html#ethical-fashion",
@@ -40,5 +40,33 @@
     "title": "Aspen Jack",
     "section": "Traffic Accidents in the US (2016-2022)",
     "text": "Traffic Accidents in the US (2016-2022)\nAn in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
+  },
+  {
+    "objectID": "portfolio.html#ethical-fashion",
+    "href": "portfolio.html#ethical-fashion",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
+  },
+  {
+    "objectID": "portfolio.html#traffic-accidents-in-the-us-2016-2022",
+    "href": "portfolio.html#traffic-accidents-in-the-us-2016-2022",
+    "title": "Aspen Jack",
+    "section": "Traffic Accidents in the US (2016-2022)",
+    "text": "Traffic Accidents in the US (2016-2022)\nAn in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable."
+  },
+  {
+    "objectID": "index.html#fontcolor-white",
+    "href": "index.html#fontcolor-white",
+    "title": "Aspen Jack",
+    "section": "fontcolor: white",
+    "text": "fontcolor: white\n\nData Analyst\n\n\nAspen Jack\n\n\n\nData Analyst\n\n \n  Contact\nwebsite: - icon: github href: https://github.com/aspenjack"
   }
 ]

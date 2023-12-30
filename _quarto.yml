@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
+      - href: portfolio.qmd
         text: Portfolio
       - href: resume.qmd
         text: Resume
@@ -22,6 +22,7 @@ format:
     css: styles.css
     toc: true
     embed-resources: true
+    page-layout: full
 
 
 
