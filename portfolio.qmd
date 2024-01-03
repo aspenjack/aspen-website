@@ -1,7 +1,14 @@
 ---
 // title: "Projects"
+format:
+    html:
+        theme: font_styles.css
 ---
-
+<style>
+    body {
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+</style>
 ## [Ethical Fashion](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
 An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.
 

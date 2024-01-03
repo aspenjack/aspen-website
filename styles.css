@@ -1,6 +1,21 @@
 /* css styles */
 
-.test {
+.center {
     text-align: center;
 }
 
+.font {
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.bottom {
+    bottom: 0
+}
+
+.img {
+    display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
