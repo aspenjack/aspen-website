@@ -1,6 +1,5 @@
 ---
 // title: "Projects"
-
 ---
 <style>
     body {
@@ -8,8 +7,12 @@
     text-align: center;
   }
 </style>
-## [Ethical Fashion](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
- An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.
+# [Ethical Fashion Dashboard](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
+
+<p style="font-size: 25px; text-align:center">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
+-------------------------------- 
+Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/), **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
+
 <style>
     body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -18,8 +21,17 @@
 </style>
 ![](Demo.gif) 
 
-** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/)
+** Note: Interactive dashboard is not public because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. 
+
+<style>
+    body {
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+</style>
+# [Collision Chronicles: Decoding Traffic Incidents](https://aspenjack.github.io/US-Transportation-Accidents/)
+<p style="font-size: 25px; text-align:center">Exploratory analysis of traffic accidents in the United States between 2016 - 2022 </p>
+---------------------------------
 
 
-## [Traffic Accidents in the US (2016-2022)](https://aspenjack.github.io/US-Transportation-Accidents/)
-An in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable.
+Incorporated a Census API to account for population sizes of cities and make them accurately comparable.

@@ -21,6 +21,7 @@ website:
 format:
   html:
     theme: cosmo
+    linkcolor: "#007b57"
     css: styles.css
     toc: true
     embed-resources: true

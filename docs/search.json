@@ -44,21 +44,21 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Aspen Jack",
+    "title": "Ethical Fashion Dashboard",
     "section": "",
-    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
+    "text": "Ethical Fashion Dashboard\n\n\n\n\nInteractive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters\n\n\n\n\nContains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data from Fashion Revolution, cleaning and formatting in Python, loading into PostgreSQL via SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3, Plotly, and Leaflet.\n\n\n\n\n\n** Note: Interactive dashboard is not public because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided.\n\n\n\nCollision Chronicles: Decoding Traffic Incidents\n\nExploratory analysis of traffic accidents in the United States between 2016 - 2022\n\n\nIncorporated a Census API to account for population sizes of cities and make them accurately comparable."
   },
   {
     "objectID": "portfolio.html#ethical-fashion",
     "href": "portfolio.html#ethical-fashion",
     "title": "Aspen Jack",
     "section": "",
-    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
+    "text": "Interactive Dashboard\n\n An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
   },
   {
     "objectID": "portfolio.html#traffic-accidents-in-the-us-2016-2022",
     "href": "portfolio.html#traffic-accidents-in-the-us-2016-2022",
-    "title": "Aspen Jack",
+    "title": "\nEthical Fashion\n",
     "section": "Traffic Accidents in the US (2016-2022)",
     "text": "Traffic Accidents in the US (2016-2022)\nAn in-depth exploratory analysis of traffic accident trends in the United States between 2016 and 2022. Incorporated a Census API to account for population sizes of cities and make them accurately comparable."
   },
@@ -96,5 +96,26 @@
     "title": "Aspen Jack",
     "section": "",
     "text": "Aspen Jack\n\n\n\nData Analyst | Professional | Human\n\n               Contact"
+  },
+  {
+    "objectID": "portfolio.html#ethical-fashion-hi",
+    "href": "portfolio.html#ethical-fashion-hi",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
+  },
+  {
+    "objectID": "portfolio.html#ethical-fashion-interactive-dashboard",
+    "href": "portfolio.html#ethical-fashion-interactive-dashboard",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
+  },
+  {
+    "objectID": "portfolio.html#ethical-fashion-.center-interactive-dashboard",
+    "href": "portfolio.html#ethical-fashion-.center-interactive-dashboard",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\n\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: Fashion Revolution"
   }
 ]

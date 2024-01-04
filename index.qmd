@@ -3,7 +3,7 @@ fontcolor: white
 ---
 <style>
     body {
-    background-image: url("/website-background.jpeg");
+    background-image: url("/molecules.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Montserrat' sans-serif;
@@ -16,8 +16,8 @@ fontcolor: white
 <p style="display:inline; font-size: 42px; font-weight: bold">Aspen Jack</p>
 <br>
 <p style="font-size: 22px">Data Analyst | Professional | Human</p> <br>
-<link href = "https://github.com/aspenjack" > <button> <i style="display: inline; color: white; target=_blank"></i>
-![https://github.com/aspenjack](github_index){width="35"} </button> </link>
+<a href = "https://github.com/aspenjack" > <button> <i style="display: inline; color: white; target=_blank"></i>
+![https://github.com/aspenjack](github_index){width="35"} </button> </a>
 <a href = "https://www.linkedin.com/in/aspenjack" > <button> <i style="display: inline; color: white"></i>
 ![](linkedin_icon_final.png){.linkedin width="35"} </button> </a> <br>
 <br>
