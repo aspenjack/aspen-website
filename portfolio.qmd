@@ -8,15 +8,17 @@
     text-align: center;
   }
 </style>
-
 ## [Ethical Fashion](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
  An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.
+<style>
+    body {
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+</style>
+![](Demo.gif) 
 
-* Data Source: [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/) 
-
-![](Ethical_Fashion_Demo.mp4) 
-
-** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided.
+** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided. Data Source: [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/)
 
 
 ## [Traffic Accidents in the US (2016-2022)](https://aspenjack.github.io/US-Transportation-Accidents/)

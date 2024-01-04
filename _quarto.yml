@@ -5,8 +5,6 @@ project:
 website:
   title: "Aspen Jack"
   navbar:
-    background: "#D2B4DE"
-    foreground: light
     left:
       - href: index.qmd
         text: Home
@@ -22,8 +20,7 @@ website:
 
 format:
   html:
-    theme: journal
-    linkcolor: "#512E5F"
+    theme: cosmo
     css: styles.css
     toc: true
     embed-resources: true
