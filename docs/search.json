@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Aspen Jack",
     "section": "",
-    "text": "Aspen Jack\n\n\n\nData Analyst | Professional | Human\n\n\n\n\n     \n\n\n\nContact"
+    "text": "Aspen Jack\n\n\n\nData Analyst | Professional | Human\n\n               Contact"
   },
   {
     "objectID": "projects.html#ethical-fashion",
@@ -82,5 +82,19 @@
     "title": "Aspen Jack",
     "section": "",
     "text": "(928) 278-0552\n   aspenLjack@gmail.com\n   aspenjack\n   Aspen Jack"
+  },
+  {
+    "objectID": "portfolio.html#center-ethical-fashion",
+    "href": "portfolio.html#center-ethical-fashion",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "An interactive dashboard containing visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included sourcing data, cleaning and formatting in Python, loading into PostgreSQL using SQLAlchemy, creating a Flask App to link PostgreSQL database, constructing a website using JavaScript, Bootstrap, and HTML, and creating visualizations using D3 and Plotly.\n\nData Source: Fashion Revolution\n\nVideo\n** Note: Interactive dashboard cannot be deployed to a public website because the data is not connected to a server, it is stored locally. As a result, a video demonstration of the dashboard is provided."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Aspen Jack",
+    "section": "",
+    "text": "Aspen Jack\n\n\n\nData Analyst | Professional | Human\n\n               Contact"
   }
 ]
