@@ -11,7 +11,7 @@
 
 <p style="font-size: 25px; text-align:center">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
 -------------------------------- 
-Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process included **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/), **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
+Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process includes **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/), **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
 
 <style>
     body {
@@ -29,9 +29,23 @@ Contains visualizations of 5 key metrics related to sustainability and fair wage
     text-align: center;
   }
 </style>
-# [Collision Chronicles: Decoding Traffic Incidents](https://aspenjack.github.io/US-Transportation-Accidents/)
-<p style="font-size: 25px; text-align:center">Exploratory analysis of traffic accidents in the United States between 2016 - 2022 </p>
+# [Visualizing Collisions](https://aspenjack.github.io/US-Transportation-Accidents/)
+
+<p style="font-size: 25px; text-align:center">Exploratory analysis of traffic accidents in the United States between 2016-2022 </p>
 ---------------------------------
+Analyzes numerous potentially influential factors related to traffic accidents such as weather, time of day, location, temperature, etc. Utilizes the Census API to standardize city size based on population, ensuring a uniform basis for comparing accident rates across cities. End-to-end process includes **sourcing data** from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data), **incorporating the Census API** to standardize city size, **cleaning, merging, and formatting** data in Python, and **visualizing** the results graphically.
+
+<style>
+    img {
+    display: inline-block;
+  }
+</style>
+![](/./traffic_accident_imgs/temperature_vs_accidents.png){width=350px}
+![](/./traffic_accident_imgs/Accidents_Top3_By_Year.png){width=350px}
+![](/./traffic_accident_imgs/wx_condition_vs_accidents.png){width=350px}
+![](/./traffic_accident_imgs/greatest_increase_traffic.png){width=350px}
+![](/./traffic_accident_imgs/2022DaytimeAccidentsv2.png){width=350px}
+![](/./traffic_accident_imgs/Accidents_Top5.png){width=350px}
 
 
-Incorporated a Census API to account for population sizes of cities and make them accurately comparable.
+<p style="font-size: 16px; text-align:center">For more visualizations click [here](https://github.com/aspenjack/US-Transportation-Accidents/tree/main/outputs) </p>

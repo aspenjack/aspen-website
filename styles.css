@@ -21,4 +21,16 @@
 }
 
 .permalink {
-    display: none; }
+    display: none; 
+}
+
+.left {
+    display: inline-block;
+    float: left
+    
+}
+
+.right {
+    display: inline-block;
+    
+}
