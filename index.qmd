@@ -17,7 +17,7 @@ fontcolor: white
 <br>
 <p style="font-size: 22px">Data Analyst | Professional | Human</p> <br>
 <a href = "https://github.com/aspenjack" > <button> <i style="display: inline; color: white"></i>
-![https://github.com/aspenjack](github_index){width="35" target=_blank} </button> </a>
+![https://github.com/aspenjack](github_index){width="35" target="_blank"} </button> </a>
 <a href = "https://www.linkedin.com/in/aspenjack" > <button> <i style="display: inline; color: white"></i>
 ![](linkedin_icon_final.png){.linkedin width="35"} </button> </a> <br>
 <br>
