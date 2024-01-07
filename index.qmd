@@ -4,7 +4,7 @@ fontcolor: white
 <style>
     body {
     background-image: url("/molecules.jpeg");
-    background-size: cover;
+    background-size: 100vw auto;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
