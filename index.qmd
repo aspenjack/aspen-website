@@ -4,10 +4,11 @@ fontcolor: white
 <style>
     body {
     background-image: url("/molecules.jpeg");
-    background-size: 100vw auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+    min-height:100%;
     font-family: 'Montserrat' sans-serif;
     /*background-position: center center;*/
     /*background-attachment: fixed;*/
