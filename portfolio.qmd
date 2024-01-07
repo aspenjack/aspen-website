@@ -49,3 +49,4 @@ Analyzes numerous potentially influential factors related to traffic accidents s
 
 
 <p style="font-size: 16px; text-align:center">For more visualizations click [here](https://github.com/aspenjack/US-Transportation-Accidents/tree/main/outputs) </p>
+
