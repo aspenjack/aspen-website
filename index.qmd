@@ -3,11 +3,12 @@ fontcolor: white
 ---
 <style>
     body {
+    background-color: "#007150"
     background-image: url("/molecules.jpeg");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: initial;
+    background-attachment: fixed;
     font-family: 'Montserrat' sans-serif;
     /*background-position: center center;*/
     /*background-attachment: fixed;*/
