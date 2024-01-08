@@ -3,7 +3,6 @@ fontcolor: white
 ---
 <style>
     body {
-    background-color: "#007150"
     background-image: url("/molecules.jpeg");
     background-size: cover;
     background-repeat: no-repeat;

@@ -50,3 +50,15 @@ Analyzes numerous potentially influential factors related to traffic accidents s
 
 <p style="font-size: 16px; text-align:center">For more visualizations click [here](https://github.com/aspenjack/US-Transportation-Accidents/tree/main/outputs) </p>
 
+# [Citi Bike Tableau Dashboards](https://public.tableau.com/app/profile/aspen.jack/viz/CitiBike_17044956173510/EndStations)
+
+<p style="font-size: 25px; text-align:center">Interactive dashboards and visualizations exploring Citi Bike user behavior during August 2019</p>
+-------------------------------
+The [Gender Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/GenderDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) explores gender's role in Citi Bike user interactions while the [Age Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/AgeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) investigates how age influences rider behavior in the Citi Bike system. Additional visualizations in this project delve into different facets of consumer conduct to gain further business  insight.
+
+Citi Bike Ridership by Gender
+![](Gender_Dashboard.png)
+<br>
+<br>
+Citi Bike Ridership by Age
+![](Age_Dashboard.png)
