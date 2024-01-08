@@ -4,25 +4,15 @@ fontcolor: white
 <style>
     body {
     background-image: url("/molecules.jpeg");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    /* background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-position: center center;
-    min-height:100%; */
+    background-attachment: initial;
     font-family: 'Montserrat' sans-serif;
     /*background-position: center center;*/
     /*background-attachment: fixed;*/
     text-align: center;
-    margin-top: 50px;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -10;
+    margin-top: 50px
   }
 </style>
 <br><br><br><br><p style="display:inline; font-size: 42px; font-weight: bold">Aspen Jack</p>
