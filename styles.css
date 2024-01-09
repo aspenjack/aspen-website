@@ -30,6 +30,8 @@
 }
 
 .right {
-    display: inline-block;
-    
-}
+    position: absolute;
+    left: 470px;
+    width: 500px;
+    padding: 10px;
+  }
