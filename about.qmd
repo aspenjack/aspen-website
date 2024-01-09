@@ -23,7 +23,6 @@ format:
   }
 </style> -->
 #### {.right}
-<br><br>
 [Contact](contact.qmd){.btn-lg .btn-outline-dark .btn role="button"} &numsp;
 [LinkedIn](https://www.linkedin.com/in/aspenjack){.btn-lg .btn-outline-dark .btn role="button"} &numsp;
 [GitHub](https://github.com/aspenjack){.btn-lg .btn-outline-dark .btn role="button"} &numsp;
