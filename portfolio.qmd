@@ -62,3 +62,22 @@ Citi Bike Ridership by Gender
 <br>
 Citi Bike Ridership by Age
 ![](Age_Dashboard.png)
+
+# [Visualizing Earthquakes](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/)
+
+<p style="font-size: 25px; text-align:center">Interactive geomap of earthquakes around the world</p>
+-------------------------------- 
+Utilizes Leaflet combined with a USGS GeoJSON API to map each earthquake around the world that occurred in the past 7 days, updated every minute. Popups allow clickable points that display information about the chosen earthquake. For interactivity, click [here](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/).
+
+![](leaflet_earthquakes.png)
+
+# [Biodiversity Dashboard](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/)
+
+<p style="font-size: 25px; text-align:center">Interactive dashboard of bacteria cultures found in belly buttons</p>
+-------------------------------- 
+Utilizes D3, JavaScript, and Plotly to create an interactive dashboard displaying various visuals related to individual participant's belly button cultures.
+
+![](biodiversity_dashboard.png)
+
+# Others
+For more projects, feel free to check out my various [github repositories](https://github.com/aspenjack?tab=repositories)
