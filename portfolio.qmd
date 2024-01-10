@@ -75,9 +75,9 @@ Utilizes Leaflet combined with a USGS GeoJSON API to map each earthquake around 
 
 <p style="font-size: 25px; text-align:center">Interactive dashboard of bacteria cultures found in belly buttons</p>
 -------------------------------- 
-Utilizes D3, JavaScript, and Plotly to create an interactive dashboard displaying various visuals related to individual participant's belly button cultures.
+Utilizes D3, JavaScript, and Plotly to create an interactive dashboard displaying various visuals related to individual participant's belly button cultures. For interactivity, click [here](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/).
 
 ![](biodiversity_dashboard.png)
 
-# Others
-For more projects, feel free to check out my various [github repositories](https://github.com/aspenjack?tab=repositories)
+# Other
+**To see more of my work, feel free to check out my various [github repositories](https://github.com/aspenjack?tab=repositories)**
