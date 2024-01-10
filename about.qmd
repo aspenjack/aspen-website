@@ -10,7 +10,8 @@ format:
     img {
     float:left;
     padding-right: 15px;
-    margin-right: 45px
+    margin-right: 45px;
+    padding-bottom: 10px
   }
 </style>
 <br><br>![](about_img.jpg){width=350px}<p style="font-size: 22px; text-align:left">Hi, I'm Aspen. <br><br> 
