@@ -4,19 +4,19 @@
 <style>
     body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-align: center;
+    text-align: left;
   }
 </style>
 # [Ethical Fashion Dashboard](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
 
-<p style="font-size: 25px; text-align:center">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
+<p style="font-size: 25px; text-align:left">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
 -------------------------------- 
 Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process includes **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/), **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
 
 <style>
     body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-align: center;
+    text-align: left;
   }
 </style>
 ![](Demo.gif) 
@@ -26,7 +26,7 @@ Contains visualizations of 5 key metrics related to sustainability and fair wage
 <style>
     body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-align: center;
+    text-align: left;
   }
 </style>
 # [Visualizing Collisions](https://aspenjack.github.io/US-Transportation-Accidents/)
