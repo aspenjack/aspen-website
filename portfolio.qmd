@@ -7,11 +7,11 @@
     text-align: left;
   }
 </style>
-# [Ethical Fashion Dashboard](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb)
+# [Ethical Fashion Dashboard](https://github.com/aspenjack/Ethical-Fashion/blob/main/Ethical-Fashion_v1.ipynb){target="_blank"}
 
-<p style="font-size: 25px; text-align:left">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
+<p style="font-size: 25px; text-align:left;">Interactive dashboard exploring sustainability and fair wage practices of various fashion companies and their headquarters</p>
 -------------------------------- 
-Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process includes **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/), **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
+Contains visualizations of 5 key metrics related to sustainability and fair wage practices. End-to-end process includes **sourcing data** from [Fashion Revolution](https://www.fashionrevolution.org/about/transparency/){target="_blank"}, **cleaning and formatting** in Python, **loading into PostgreSQL** via SQLAlchemy, **creating a Flask App** to link PostgreSQL database, **constructing a website** using JavaScript, Bootstrap, and HTML, and **creating visualizations** using D3, Plotly, and Leaflet.
 
 <style>
     body {
@@ -29,11 +29,11 @@ Contains visualizations of 5 key metrics related to sustainability and fair wage
     text-align: left;
   }
 </style>
-# [Visualizing Collisions](https://aspenjack.github.io/US-Transportation-Accidents/)
+# [Visualizing Collisions](https://aspenjack.github.io/US-Transportation-Accidents/){target="_blank"}
 
 <p style="font-size: 25px; text-align:center">Exploratory analysis of traffic accidents in the United States between 2016-2022 </p>
 ---------------------------------
-Analyzes numerous potentially influential factors related to traffic accidents such as weather, time of day, location, temperature, etc. Utilizes the Census API to standardize city size based on population, ensuring a uniform basis for comparing accident rates across cities. End-to-end process includes **sourcing data** from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data), **incorporating the Census API** to standardize city size, **cleaning, merging, and formatting** data in Python, and **visualizing** the results graphically.
+Analyzes numerous potentially influential factors related to traffic accidents such as weather, time of day, location, temperature, etc. Utilizes the Census API to standardize city size based on population, ensuring a uniform basis for comparing accident rates across cities. End-to-end process includes **sourcing data** from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data){target="_blank"}, **incorporating the Census API** to standardize city size, **cleaning, merging, and formatting** data in Python, and **visualizing** the results graphically.
 
 <style>
     img {
@@ -50,11 +50,11 @@ Analyzes numerous potentially influential factors related to traffic accidents s
 
 <p style="font-size: 16px; text-align:center">For more visualizations click [here](https://github.com/aspenjack/US-Transportation-Accidents/tree/main/outputs) </p>
 
-# [Citi Bike Tableau Dashboards](https://public.tableau.com/app/profile/aspen.jack/viz/CitiBike_17044956173510/EndStations)
+# [Citi Bike Tableau Dashboards](https://public.tableau.com/app/profile/aspen.jack/viz/CitiBike_17044956173510/EndStations){target="_blank"}
 
 <p style="font-size: 25px; text-align:center">Interactive dashboards and visualizations exploring Citi Bike user behavior during August 2019</p>
 -------------------------------
-The [Gender Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/GenderDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) explores gender's role in Citi Bike user interactions while the [Age Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/AgeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) investigates how age influences rider behavior in the Citi Bike system. Additional visualizations in this project delve into different facets of consumer conduct to gain further business  insight.
+The [Gender Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/GenderDashboard?:language=en-US&:display_count=n&:origin=viz_share_link){target="_blank"} explores gender's role in Citi Bike user interactions while the [Age Dashboard](https://public.tableau.com/views/CitiBike_17044956173510/AgeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link){target="_blank"} investigates how age influences rider behavior in the Citi Bike system. Additional visualizations in this project delve into different facets of consumer conduct to gain further business  insight.
 
 Citi Bike Ridership by Gender
 ![](Gender_Dashboard.png)
@@ -63,21 +63,21 @@ Citi Bike Ridership by Gender
 Citi Bike Ridership by Age
 ![](Age_Dashboard.png)
 
-# [Visualizing Earthquakes](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/)
+# [Visualizing Earthquakes](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/){target="_blank"}
 
 <p style="font-size: 25px; text-align:center">Interactive geomap of earthquakes around the world</p>
 -------------------------------- 
-Utilizes Leaflet combined with a USGS GeoJSON API to map each earthquake around the world that occurred in the past 7 days, updated every minute. Popups allow clickable points that display information about the chosen earthquake. For interactivity, click [here](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/).
+Utilizes Leaflet combined with a USGS GeoJSON API to map each earthquake around the world that occurred in the past 7 days, updated every minute. Popups allow clickable points that display information about the chosen earthquake. For interactivity, click [here](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/){target="_blank"}.
 
 ![](leaflet_earthquakes.png)
 
-# [Biodiversity Dashboard](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/)
+# [Biodiversity Dashboard](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/){target="_blank"}
 
 <p style="font-size: 25px; text-align:center">Interactive dashboard of bacteria cultures found in belly buttons</p>
 -------------------------------- 
-Utilizes D3, JavaScript, and Plotly to create an interactive dashboard displaying various visuals related to individual participant's belly button cultures. For interactivity, click [here](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/).
+Utilizes D3, JavaScript, and Plotly to create an interactive dashboard displaying various visuals related to individual participant's belly button cultures. For interactivity, click [here](https://aspenjack.github.io/Biodiversity-Interactive-Dashboard/){target="_blank"}.
 
 ![](biodiversity_dashboard.png)
 
 # Other
-**To see more of my work, feel free to check out my various [github repositories](https://github.com/aspenjack?tab=repositories)**
+**To see more of my work, feel free to check out my various [github repositories](https://github.com/aspenjack?tab=repositories){target="_blank"}**
