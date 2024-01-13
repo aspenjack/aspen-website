@@ -14,7 +14,7 @@
 Phoenix, AZ <br>
 Phone: (928) 278-0552 | Email: aspenLjack@gmail.com
 | [LinkedIn](https://www.linkedin.com/in/aspenjack/) | [GitHub](https://github.com/aspenjack)
-| [Portfolio](https://aspenjack.github.io/aspen-website/) <br>
+| [Portfolio](portfolio.qmd) <br>
 
 ### Summary
 Strategic, goal-oriented Data Analyst focused on utilizing 3 years of experience in data collection and response in a long-term role that fosters growth and development. Well-rounded professional who has been consistently recognized as a top performer in roles responsible for data-driven decision-making, complex problem solving, and high-stakes attention to detail. Strong background in innovation, critical thinking, and collaboration and communication within and across teams.
