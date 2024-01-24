@@ -34,7 +34,7 @@ Contains visualizations of 5 key metrics related to sustainability and fair wage
 
 <p style="font-size: 25px; text-align:center">Exploratory analysis of traffic accidents in the United States between 2016-2022 </p>
 ---------------------------------
-Analyzes numerous potentially influential factors related to traffic accidents such as weather, time of day, location, temperature, etc. Utilizes the Census API to standardize city size based on population, ensuring a uniform basis for comparing accident rates across cities. End-to-end process includes **sourcing data** from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data), **incorporating the Census API** to standardize city size, **cleaning, merging, and formatting** data in Python, and **visualizing** the results graphically.
+Analyzes numerous potentially influential factors related to traffic accidents such as weather, time of day, location, temperature, etc. Utilizes the Census API to standardize city size based on population, ensuring a uniform basis for comparing accident rates across cities. End-to-end process includes **sourcing data** from [Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data){target="_blank"}, **incorporating the Census API** to standardize city size, **cleaning, merging, and formatting** data in Python, and **visualizing** the results graphically.
 
 <style>
     img {
@@ -66,7 +66,7 @@ Citi Bike Ridership by Age
 ![](Age_Dashboard.png)
 <br><br><br><br>
 
-# [Visualizing Earthquakes](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/{target="_blank"}
+# [Visualizing Earthquakes](https://aspenjack.github.io/Visualizing-Earthquakes-Leaflet/){target="_blank"}
 
 <p style="font-size: 25px; text-align:center">Interactive geomap of earthquakes around the world</p>
 -------------------------------- 
