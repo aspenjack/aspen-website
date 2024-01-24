@@ -16,9 +16,9 @@ execute:
 
 <a>![](email_icon.png){width="25"}&nbsp;&nbsp; aspenLjack\@gmail.com</a>
 
-![](github_icon.png){width="25"}&nbsp;&nbsp; [aspenjack](https://github.com/aspenjack)
+![](github_icon.png){width="25"}&nbsp;&nbsp; [aspenjack](https://github.com/aspenjack){target="_blank"}
 
-![](linkedin_icon.png){width="22"}&nbsp;&nbsp; [Aspen Jack](https://www.linkedin.com/in/aspenjack)
+![](linkedin_icon.png){width="22"}&nbsp;&nbsp; [Aspen Jack](https://www.linkedin.com/in/aspenjack){target="_blank"}
 
 
 
